@@ -41,7 +41,7 @@ pathIn <- file.path(path, "UCI HAR Dataset")
 list.files(pathIn, recursive=TRUE)
 ```
 
-###For detailed information on the dataset, see the README.txt file.
+####For detailed information on the dataset, see the README.txt file.
 For this project, we are going to ignore the files in the Inertial Signals folders.
 
 ##Read the files
