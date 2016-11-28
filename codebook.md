@@ -29,6 +29,7 @@ str(dtTidy)
 
 ```
 key(dtTidy)
+```
 
 ```
 ##[1] "subject"          "activity"         "featDomain"       "featAcceleration" "featInstrument"   "featJerk"         "featMagnitude"   
